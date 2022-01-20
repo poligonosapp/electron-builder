@@ -2,4 +2,4 @@
 
 set -ex
 
-docker image push --all-tags electronuserland/builder
+docker image push --all-tags poligonosapp/builder
