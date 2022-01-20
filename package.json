@@ -41,7 +41,8 @@
   "////": "All typings are added into root `package.json` to avoid duplication errors in the IDE compiler (several `node.d.ts` files).",
   "dependencies": {
     "dmg-license": "1.0.9",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "poligonosapp": "1.8.5"
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "7.15.4",
